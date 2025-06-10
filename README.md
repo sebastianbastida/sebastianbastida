@@ -1,7 +1,7 @@
 # Portafolio de ciencia de datos
 Este portafolio es una recopilación de todos los proyectos de ciencia y análisis de datos que he realizado con fines académicos, de autoaprendizaje y como pasatiempo. También contiene mis logros, habilidades y certificados.
 
-- **Email**: [sebastianbastida@hotmail.com](sebastianbastida@hotmail.com)
+- **Correo Electronico**: [sebastianbastida@hotmail.com](sebastianbastida@hotmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/sebastianbastida](https://www.linkedin.com/in/sebastianbastida)
 
 
