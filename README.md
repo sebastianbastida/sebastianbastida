@@ -10,10 +10,10 @@ Este portafolio es una recopilación de todos los proyectos de ciencia y anális
     Metodologías y técnicas de estadística para gestión de datos - CFP N°18 -Av. Pueyrredón 860 - 01 - Bimodal (Marzo 2025-Julio 2025)
 
 # Trabajos Realizados
-Sobre un Dataset en Excel proviso por el curso, se analizo y trabajo sobre los datos de Vuelos de Pasajeros, saliente de unos aeropuertos determinados de la republica argentina, entre el año 2017 y 2024.
+Sobre un Dataset en Excel proviso por el curso, se analizo y trabajo sobre los datos de Vuelos de Pasajeros saliente de unos aeropuertos determinados de la Republica Argentina, entre el año 2017 y 2024. 
 - Dashboard Interactivo: https://lookerstudio.google.com/reporting/5bbca2fa-ee08-48cb-802d-e8bc5143deaf
-- Dashboard en Excel: 
 - Informe Final: https://www.canva.com/design/DAGnRFRFBYA/5APvqhCYmgJE4sl9MT0Tnw/edit
+- Dashboard en Excel: 
 
 <!--
 **sebastianbastida/sebastianbastida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
