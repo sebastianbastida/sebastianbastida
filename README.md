@@ -1,9 +1,13 @@
-# Portafolio de ciencia de datos
+# Portafolio de Analista de Datos
 Este portafolio es una recopilación de todos los proyectos de ciencia y análisis de datos que he realizado con fines académicos, de autoaprendizaje y como pasatiempo. También contiene mis logros, habilidades y certificados.
 
 - **Correo Electronico**: [sebastianbastida@hotmail.com](sebastianbastida@hotmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/sebastianbastida](https://www.linkedin.com/in/sebastianbastida)
 
+# CURSO DE CAPACITACIÓN LABORAL
+**Buenos Aires aprende**
+- Metodologías y Técnicas de Estadística para Gestión de Datos
+    CFP18 - Metodologías y Técnicas 
 
 <!--
 **sebastianbastida/sebastianbastida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
