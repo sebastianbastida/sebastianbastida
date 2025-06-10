@@ -13,8 +13,7 @@ Este portafolio es una recopilación de todos los proyectos de ciencia y anális
 Sobre un Dataset en Excel proviso por el curso, se analizo y trabajo sobre los datos de Vuelos de Pasajeros saliente de unos aeropuertos determinados de la Republica Argentina, entre el año 2017 y 2024. 
 - Dashboard Interactivo: https://lookerstudio.google.com/reporting/5bbca2fa-ee08-48cb-802d-e8bc5143deaf
 - Informe Final: https://www.canva.com/design/DAGnRFRFBYA/5APvqhCYmgJE4sl9MT0Tnw/edit
-- Dashboard en Excel: 
-
+- Dashboard en Excel:    <img align="center" width="500" height="400" src="https://github.com/sebastianbastida/sebastianbastida/blob/4212ae93aba3bddf780e4a0f7d668fb314bf34a6/image.png">
 <!--
 **sebastianbastida/sebastianbastida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
